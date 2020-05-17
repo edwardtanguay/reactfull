@@ -64,7 +64,7 @@ nav a:hover {
 
 .article-list-item p {
 	padding-bottom: 32px;
-	border-bottom: 2px solid black;
+	border-bottom: 2px dashed #bbb;
 }
 
 #add-comment-form {
